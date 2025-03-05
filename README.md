@@ -1,5 +1,7 @@
 # GameBoyAdvance Album Player
 
+This is just the code, I dind't upload the music or graphics because they are not my own, you cannot build this.
+
 This is a personal project that started after I discovered the Butano game engine.
 I wanted to make a small project to see how I could use it and this is what came out.
 The project is basically a music player for the GBA. I picked my favourite music band
