@@ -3,11 +3,11 @@
 #include "bn_bg_palettes.h"
 #include "bn_sound_items.h"
 
-#include "TextGenerator.h"
-#include "InputHandler.h"
-#include "StateHandler.h"
-#include "ImageHandler.h"
-#include "MusicHandler.h"
+#include "managers/TextGenerator.h"
+#include "managers/InputHandler.h"
+#include "managers/StateHandler.h"
+#include "managers/ImageHandler.h"
+#include "managers/MusicHandler.h"
 
 namespace
 {

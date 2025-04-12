@@ -1,10 +1,4 @@
 .vscode
 build
-butano
-dmg_audio
-graphics
-audio
-Makefile
 *.sav
-*.gba
 *.elf
