@@ -6,6 +6,7 @@ things are more complicated than they should be.
 
 
 Made with Butano Engine by GValiente
+
 Thanks to VVV Trippin'you for letting me use his music for this project.
 
 GNU GENERAL PUBLIC LICENSE Version 3
